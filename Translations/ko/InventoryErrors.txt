@@ -2,4 +2,4 @@
 이 타입의 아이템은 <color=yellow>{0}</color>개만 소지하실수 있습니다.
 <color=yellow>8</color>개의 아이템만 소지 가능합니다.
 이 타입의 아이템은 <color=yellow>{0}</color> 개만 소지 가능합니다, (현재<color=yellow>{1}/{1}</color>)
-당신은 묶였습니다,\n<size=40>팀원들에게 도움을 요청하십시오.</size>
+당신은 체포되었니다,\n<size=40>팀원들에게 도움을 요청하십시오.</size>
